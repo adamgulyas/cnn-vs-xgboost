@@ -5,7 +5,7 @@ Predicting the prices of the S&amp;P 500 with a convolutional neural network cou
 
 ### Environment
 
-Requires a Python >= 3.8 environment.
+Requires Python >= 3.8.
 
 Activate your virtual environment. For example, with Anaconda:
 ```sh
