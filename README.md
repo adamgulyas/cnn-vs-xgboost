@@ -22,6 +22,7 @@ pip install pandas==1.3.4
 pip install plotly==5.8.0
 pip install scikit-learn==0.24.2
 pip install tensorflow==2.9.1
+pip install talib
 ```
 
 ### Run
