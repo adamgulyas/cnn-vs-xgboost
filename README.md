@@ -1,5 +1,5 @@
-# Predicting Daily SPY Prices with a Hybrid CNN-LSTM Model Architecture
-Predicting the prices of the S&amp;P 500 with a convolutional neural network coupled with long short-term memory.
+# Comparing CNN architecture to XGBoost Classifier in predicting S&P 500 price movement
+Predicting the prices of the S&amp;P 500 with a convolutional neural network and xgboost.
 
 ## Usage
 
